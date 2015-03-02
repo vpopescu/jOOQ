@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>org.jooq</groupId>
-    <artifactId>jooq-scala_2.11</artifactId>
+    <artifactId>jooq-scala</artifactId>
     <name>jOOQ Scala</name>
 
     <properties>
